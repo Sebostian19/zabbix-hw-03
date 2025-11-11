@@ -36,10 +36,10 @@
 
 
 
-![Task1](/home/work02/zabbix-hw-03/img/Task1.png)`
-![Task1-1](/home/work02/zabbix-hw-03/img/Task1-1.png)`
-![Task1-2](/home/work02/zabbix-hw-03/img/Task1-2.png)`
-![Task1-3](/home/work02/zabbix-hw-03/img/Task1-3.png)`
+![Task1](https://github.com/Sebostian19/zabbix-hw-03/img/Task1.png)`
+![Task1-1](https://github.com/Sebostian19/zabbix-hw-03/img/Task1-1.png)`
+![Task1-2](https://github.com/Sebostian19/zabbix-hw-03/img/Task1-2.png)`
+![Task1-3](https://github.com/Sebostian19/zabbix-hw-03/img/Task1-3.png)`
 
 
 ---
@@ -75,9 +75,9 @@
 
       *Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![Task2](/home/work02/zabbix-hw-03/img/Task2.png)`
-![Task2-1](/home/work02/zabbix-hw-03/img/Task2-1.png)`
-![Task2-2](/home/work02/zabbix-hw-03/img/Task2-2.png)`
+![Task2](https://github.com/Sebostian19/zabbix-hw-03/img/Task2.png)`
+![Task2-1](https://github.com/Sebostian19/zabbix-hw-03/img/Task2-1.png)`
+![Task2-2](https://github.com/Sebostian19/zabbix-hw-03/img/Task2-2.png)`
 
 ### Задание 4
 
@@ -93,4 +93,4 @@
     *Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 
-![Task4](/home/work02/zabbix-hw-03/img/Task4.png)`
+![Task4](https://github.com/Sebostian19/zabbix-hw-03/img/Task4.png)`
